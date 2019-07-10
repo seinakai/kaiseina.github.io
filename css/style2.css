@@ -1,0 +1,39 @@
+.name{
+    font-size: 50px;
+}
+
+.aboutme{
+    text-align: center;
+}
+
+.body{
+    text-align: center;
+}
+
+.myphoto{
+    text-align: center;
+}
+
+.singer{
+    color: pink;
+    font-size: 25px;
+}
+
+.favorite{
+    font-weight: bold;
+}
+
+.eating{
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+}
+
+.workingexperience{
+    font-weight: bold;
+}
+
+.last-title{
+    text-align: center
+    font-size: 50px;
+}

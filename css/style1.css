@@ -1,0 +1,45 @@
+div {
+    width: 960px;
+    height: 600px;
+    background-color: #F7F8;
+    margin: auto;
+}
+
+.color{
+    color: black;
+}
+
+body{
+    font-family: helvetica;
+}
+
+h1{
+    font-family: impact;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    font: 2em;
+    text-transform: lowercase;
+}
+
+h2{
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    text-align: left;
+    margin: 20px;
+    padding: 40px;
+    border: 4px dashed orange;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
